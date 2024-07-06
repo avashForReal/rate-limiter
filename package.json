@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Avash Ghimire",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
